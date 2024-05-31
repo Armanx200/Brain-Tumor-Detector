@@ -86,7 +86,7 @@ Below is an example of how the model predicts the probability of an image being 
 ![Sample Brain Image](https://github.com/Armanx200/Brain-tumor-detector/blob/main/Brain.jpg)
 
 ```
-Probability of the image being a tumor: 87.45%
+Probability of the image being a tumor: 95.44%
 ```
 
 ## 🤝 Contributing
